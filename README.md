@@ -29,7 +29,7 @@ require 'vendor/autoload.php';
 ```
 
 ```sh
-use aegis\dolos\Detect;
+use devtoolboxuk\dolos\Detect;
 
 $dolos = new Detect();
 $detection = $dolos->pushHandler();

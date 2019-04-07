@@ -1,8 +1,8 @@
 <?php
 
-namespace aegis\dolos\Handlers;
+namespace devtoolboxuk\dolos\Handlers;
 
-use aegis\dolos\Wrappers\ZipWrapper;
+use devtoolboxuk\dolos\Wrappers\ZipWrapper;
 
 class ZipHandler extends Handler
 {

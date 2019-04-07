@@ -1,9 +1,9 @@
 <?php
 
-namespace aegis\dolos;
+namespace devtoolboxuk\dolos;
 
-use aegis\dolos\Handlers\EmailHandler;
-use aegis\dolos\Handlers\TextHandler;
+use devtoolboxuk\dolos\Handlers\EmailHandler;
+use devtoolboxuk\dolos\Handlers\TextHandler;
 use PHPUnit\Framework\TestCase;
 
 class DetectionTest extends TestCase

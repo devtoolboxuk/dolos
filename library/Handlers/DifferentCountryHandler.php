@@ -1,8 +1,8 @@
 <?php
 
-namespace aegis\dolos\Handlers;
+namespace devtoolboxuk\dolos\Handlers;
 
-use aegis\dolos\Wrappers\DifferentCountryWrapper;
+use devtoolboxuk\dolos\Wrappers\DifferentCountryWrapper;
 
 class DifferentCountryHandler extends Handler
 {

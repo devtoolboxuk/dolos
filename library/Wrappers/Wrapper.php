@@ -1,6 +1,6 @@
 <?php
 
-namespace aegis\dolos\Wrappers;
+namespace devtoolboxuk\dolos\Wrappers;
 
 abstract class Wrapper
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace aegis\dolos\Handlers;
+namespace devtoolboxuk\dolos\Handlers;
 
-use aegis\dolos\Wrappers\SecurityWrapper;
+use devtoolboxuk\dolos\Wrappers\SecurityWrapper;
 
 class SecurityHandler extends Handler
 {

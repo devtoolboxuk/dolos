@@ -1,9 +1,9 @@
 <?php
 
-namespace aegis\dolos\Handlers;
+namespace devtoolboxuk\dolos\Handlers;
 
-use aegis\dolos\Wrappers\DisposableEmailWrapper;
-use aegis\dolos\Wrappers\EmailWrapper;
+use devtoolboxuk\dolos\Wrappers\DisposableEmailWrapper;
+use devtoolboxuk\dolos\Wrappers\EmailWrapper;
 
 class EmailHandler extends Handler
 {

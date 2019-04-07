@@ -1,6 +1,6 @@
 <?php
 
-namespace aegis\dolos;
+namespace devtoolboxuk\dolos;
 
 interface DolosInterface
 {

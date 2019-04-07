@@ -1,6 +1,6 @@
 <?php
 
-namespace aegis\dolos\Models;
+namespace devtoolboxuk\dolos\Models;
 
 class DetectionModel
 {

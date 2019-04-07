@@ -1,9 +1,9 @@
 <?php
 
-namespace aegis\dolos\Handlers;
+namespace devtoolboxuk\dolos\Handlers;
 
-use aegis\dolos\Wrappers\HtmlWrapper;
-use aegis\dolos\Wrappers\UrlWrapper;
+use devtoolboxuk\dolos\Wrappers\HtmlWrapper;
+use devtoolboxuk\dolos\Wrappers\UrlWrapper;
 
 class TextHandler extends Handler
 {

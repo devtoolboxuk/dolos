@@ -1,8 +1,8 @@
 <?php
 
-namespace aegis\dolos\Handlers;
+namespace devtoolboxuk\dolos\Handlers;
 
-use aegis\dolos\Wrappers\BotWrapper;
+use devtoolboxuk\dolos\Wrappers\BotWrapper;
 
 class BotsHandler extends Handler
 {

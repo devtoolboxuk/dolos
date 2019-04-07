@@ -1,6 +1,6 @@
 <?php
 
-namespace aegis\dolos\Handlers;
+namespace devtoolboxuk\dolos\Handlers;
 
 use ReflectionClass;
 

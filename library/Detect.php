@@ -1,8 +1,8 @@
 <?php
 
-namespace aegis\dolos;
+namespace devtoolboxuk\dolos;
 
-use aegis\dolos\handlers\Handler;
+use devtoolboxuk\dolos\handlers\Handler;
 use ReflectionClass;
 
 class Detect extends AbstractDetection implements DolosInterface
@@ -50,7 +50,7 @@ class Detect extends AbstractDetection implements DolosInterface
         }
 
         if (self::$instance === null) {
-            $reflection = new ReflectionClass('aegis\\dolos\\Models\\DetectionModel');
+            $reflection = new ReflectionClass('devtoolboxuk\\dolos\\Models\\DetectionModel');
             self::$instance = $reflection->newInstance($this->references, $this->score, $this->result);
         }
 
