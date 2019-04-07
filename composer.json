@@ -1,0 +1,32 @@
+{
+  "name": "aegis/dolos",
+  "description": "Detection system. Part of AEGIS ",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "aegis\\dolos\\": "library/"
+    },
+    "classmap": [
+      "library"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Rob Wilson",
+      "email": "rob@dev-toolbox.co.uk"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "ext-yaml": "*",
+    "ext-json": "*",
+    "mattketmo/email-checker": "~v1.5.5"
+  },
+  "scripts": {
+    "test": "./vendor/bin/phpunit"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  }
+}
